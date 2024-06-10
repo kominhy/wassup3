@@ -8,7 +8,7 @@
 
 ## 취미
 
-테니스 농구 서핑 런닝
+테니스   농구   서핑   런닝
 
 ## 나의 기록
   <a href="https://www.notion.so/oreumi/878125b2e637489a818052fedb17c5b7?pvs=4">
