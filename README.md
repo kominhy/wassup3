@@ -2,7 +2,8 @@
 
 # 고민혁
 
-## 자기소개 시작
+## 취미
+테니스
 
 ## 기록
   <a href="https://www.notion.so/oreumi/878125b2e637489a818052fedb17c5b7?pvs=4">
