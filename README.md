@@ -14,7 +14,7 @@ gigigigigigigigi
    <img src="https://img.shields.io/badge/instagram-20232a.svg?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   
-    <a href="https://www.facebook.com/profile.php?id=100004826503164&locale=ko_KR">
+   <a href="https://www.facebook.com/profile.php?id=100004826503164&locale=ko_KR">
    <img src="https://img.shields.io/badge/facebook-20232a.svg?style=for-the-badge&logo=facebook&logoColor=0866FF" />
   </a>
 </span>
