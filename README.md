@@ -1,4 +1,4 @@
-# wassup3
+# [ESTsoft]Wassup AI 서비스 기획자 양성과정 3기
 
 # 고민혁
 
