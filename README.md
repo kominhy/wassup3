@@ -1,6 +1,4 @@
 # wassup3
-wassup3 AI git test
-
 
 # 고민혁
 
