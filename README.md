@@ -1,9 +1,10 @@
 # wassup3
 wassup3 AI git test
 
-git test
+
+고민혁
 * * *
-gigigigigigigigi
+자기소개 시작
 * * *
 <span>
   <a href="https://www.notion.so/oreumi/878125b2e637489a818052fedb17c5b7?pvs=4">
