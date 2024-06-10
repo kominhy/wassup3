@@ -24,4 +24,9 @@
   </a>
 
 
-## 
+## 배우고 있는 중
+My SQL
+Excel Power Query, Power BI
+Jupyter Notebook, Anaconda, Python
+Github
+Figma
