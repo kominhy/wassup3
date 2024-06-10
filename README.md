@@ -3,9 +3,9 @@ wassup3 AI git test
 
 
 # 고민혁
-* * *
+
 ## 자기소개 시작
-* * *
+
 ## 기록
 <span>
   <a href="https://www.notion.so/oreumi/878125b2e637489a818052fedb17c5b7?pvs=4">
