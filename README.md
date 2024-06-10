@@ -11,4 +11,5 @@ gigigigigigigigi
   </a>
   <a href="https://www.instagram.com/kominhy/">
    <img src="https://img.shields.io/badge/instagram-20232a.svg?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
 </span>
