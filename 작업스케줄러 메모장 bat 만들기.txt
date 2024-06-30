@@ -1,2 +1,0 @@
-@echo off
-start "C:\Users\rhals\anaconda3\python.exe" "파이썬소스파일경로"
