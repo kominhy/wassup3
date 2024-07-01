@@ -27,42 +27,9 @@ for i in range(5) :
     
     lotto = [] #초기화
 
-
-# In[29]:
-
-
-# import random
-
-# lotto = []
-
-# nums = range(1,46)
-# num = []
-
-# for i in range(5) :
-#     lotto = random.sample(nums, 6)
-#     lotto.sort()
-#     list = str(lotto)
-#     print(i+1,'번째줄 : ', list[1:-1]) # 괄호 제거
-    
-#     lotto = [] #초기화
-
-
-# In[28]:
-
-
-# import random
-# lotto = []
-# nums = range(1,46)
-# num = []
-# lotto = random.sample(nums, 6)
-# lotto.sort()
-# lotto
-
-
-# In[27]:
-
-
-# lotto.sort?
+p = input('0이면 종료')
+while p == 0 :
+    break
 
 
 # In[ ]:

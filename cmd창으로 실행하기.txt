@@ -1,0 +1,19 @@
+1. anaconda prompt창 실행
+
+2. 해당 폴더로 이동 ( cd 주소)
+
+3. jupyter nbconvert --to script 파일명.ipynb 입력
+	- ex) jupyter nbconvert --to script LOTTO.ipynb
+
+jupyter nbconvert --to script LOTTO2.ipynb
+
+4. python "파일명".py 입력
+	- python "LOTTO".py
+5 실행
+
+6. exe파일 만들기 pyinstaller "파일명".py 입력
+	- pyinstaller "page".py
+page.py
+pyinstaller "web_scraping".py
+web_scraping
+작업 스케줄러로 메모장을 bat로 만들어서 프로그램 안꺼지게 설정
